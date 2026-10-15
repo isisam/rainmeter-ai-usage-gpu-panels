@@ -1,0 +1,21 @@
+# runtime output
+AI Usage/@Resources/panel-data.txt
+AI Usage/@Resources/panel-usage*.json
+AI Usage/@Resources/producer-status.json
+AI Usage/@Resources/quota-cache.json
+AI Usage/@Resources/reader.lock
+AI Usage/@Resources/paused.flag
+AI Usage/@Resources/native-text-after.bin
+AI Usage/@Resources/*.tmp
+GPU Monitor/@Resources/gpu_status.txt
+GPU Monitor/@Resources/gpu_status.tmp
+GPU Monitor/@Resources/reader.pid
+GPU Monitor/@Resources/audit.txt
+
+# personal config
+AI Usage/@Resources/config.json
+AI Usage/@Resources/manual.json
+
+__pycache__/
+*.pyc
+@Backup*/

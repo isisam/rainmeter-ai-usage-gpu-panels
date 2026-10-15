@@ -1,0 +1,4 @@
+# Rainmeter reads these as UTF-16 LE; store them as UTF-8 so GitHub can diff them.
+AIUsage.ini working-tree-encoding=UTF-16LE-BOM eol=crlf
+GPU.ini working-tree-encoding=UTF-16LE-BOM eol=crlf
+*.lua working-tree-encoding=UTF-16LE-BOM eol=crlf
